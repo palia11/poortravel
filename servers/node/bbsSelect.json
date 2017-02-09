@@ -1,0 +1,668 @@
+{
+    "status": 1,
+    "info": "OK",
+    "times": 0,
+    "data": {
+        "times_range": [
+            {
+                "start_time": "",
+                "end_time": "",
+                "description": "不限",
+                "position": 0
+            },
+            {
+                "start_time": "1474709232",
+                "end_time": "1475251199",
+                "description": "9月",
+                "position": 1
+            },
+            {
+                "start_time": "1475251200",
+                "end_time": "1477929599",
+                "description": "10月",
+                "position": 1
+            },
+            {
+                "start_time": "1477929600",
+                "end_time": "1480521599",
+                "description": "11月",
+                "position": 1
+            },
+            {
+                "start_time": "1480521600",
+                "end_time": "1483199999",
+                "description": "12月",
+                "position": 1
+            },
+            {
+                "start_time": "1451577600",
+                "end_time": "1485878399",
+                "description": "2017年1月",
+                "position": 1
+            },
+            {
+                "start_time": "1454256000",
+                "end_time": "1488297599",
+                "description": "2017年2月",
+                "position": 1
+            },
+            {
+                "start_time": "1456761600",
+                "end_time": "",
+                "description": "更远日期",
+                "position": 1
+            },
+            {
+                "start_time": "1475251200",
+                "end_time": "1475855999",
+                "description": "国庆",
+                "position": 2
+            },
+            {
+                "start_time": "1483200000",
+                "end_time": "1483459199",
+                "description": "元旦",
+                "position": 2
+            },
+            {
+                "start_time": "1485446400",
+                "end_time": "1486915199",
+                "description": "春节",
+                "position": 2
+            },
+            {
+                "start_time": "1490976000",
+                "end_time": "1491753599",
+                "description": "清明",
+                "position": 2
+            },
+            {
+                "start_time": "1493395200",
+                "end_time": "1494172799",
+                "description": "劳动",
+                "position": 2
+            },
+            {
+                "start_time": "1495814400",
+                "end_time": "1496591999",
+                "description": "端午",
+                "position": 2
+            }
+        ],
+        "destination": [
+            {
+                "continent": "热门",
+                "place": [
+                    {
+                        "place_id": 0,
+                        "place_type": 0,
+                        "place_name": "不限"
+                    },
+                    {
+                        "place_id": 186,
+                        "place_type": 1,
+                        "place_name": "法国"
+                    },
+                    {
+                        "place_id": 213,
+                        "place_type": 1,
+                        "place_name": "马来西亚"
+                    },
+                    {
+                        "place_id": 215,
+                        "place_type": 1,
+                        "place_name": "泰国"
+                    },
+                    {
+                        "place_id": 189,
+                        "place_type": 1,
+                        "place_name": "意大利"
+                    },
+                    {
+                        "place_id": 50,
+                        "place_type": 2,
+                        "place_name": "香港"
+                    },
+                    {
+                        "place_id": 51,
+                        "place_type": 2,
+                        "place_name": "澳门"
+                    },
+                    {
+                        "place_id": 11186,
+                        "place_type": 2,
+                        "place_name": "台湾"
+                    },
+                    {
+                        "place_id": 14,
+                        "place_type": 1,
+                        "place_name": "日本"
+                    },
+                    {
+                        "place_id": 233,
+                        "place_type": 1,
+                        "place_name": "韩国"
+                    },
+                    {
+                        "place_id": 13,
+                        "place_type": 1,
+                        "place_name": "英国"
+                    },
+                    {
+                        "place_id": 240,
+                        "place_type": 1,
+                        "place_name": "澳大利亚"
+                    },
+                    {
+                        "place_id": 220,
+                        "place_type": 1,
+                        "place_name": "尼泊尔"
+                    },
+                    {
+                        "place_id": 241,
+                        "place_type": 1,
+                        "place_name": "新西兰"
+                    },
+                    {
+                        "place_id": 238,
+                        "place_type": 1,
+                        "place_name": "加拿大"
+                    },
+                    {
+                        "place_id": 402,
+                        "place_type": 1,
+                        "place_name": "阿联酋"
+                    },
+                    {
+                        "place_id": 216,
+                        "place_type": 1,
+                        "place_name": "越南"
+                    }
+                ]
+            },
+            {
+                "continent": "欧洲",
+                "place": [
+                    {
+                        "place_id": 0,
+                        "place_type": 1,
+                        "place_name": "不限"
+                    },
+                    {
+                        "place_id": 186,
+                        "place_type": 1,
+                        "place_name": "法国"
+                    },
+                    {
+                        "place_id": 189,
+                        "place_type": 1,
+                        "place_name": "意大利"
+                    },
+                    {
+                        "place_id": 15,
+                        "place_type": 1,
+                        "place_name": "德国"
+                    },
+                    {
+                        "place_id": 182,
+                        "place_type": 1,
+                        "place_name": "西班牙"
+                    },
+                    {
+                        "place_id": 13,
+                        "place_type": 1,
+                        "place_name": "英国"
+                    },
+                    {
+                        "place_id": 524,
+                        "place_type": 1,
+                        "place_name": "瑞士"
+                    },
+                    {
+                        "place_id": 200,
+                        "place_type": 1,
+                        "place_name": "荷兰"
+                    },
+                    {
+                        "place_id": 198,
+                        "place_type": 1,
+                        "place_name": "奥地利"
+                    },
+                    {
+                        "place_id": 804,
+                        "place_type": 1,
+                        "place_name": "梵蒂冈"
+                    },
+                    {
+                        "place_id": 193,
+                        "place_type": 1,
+                        "place_name": "捷克"
+                    },
+                    {
+                        "place_id": 424,
+                        "place_type": 1,
+                        "place_name": "比利时"
+                    },
+                    {
+                        "place_id": 195,
+                        "place_type": 1,
+                        "place_name": "土耳其"
+                    },
+                    {
+                        "place_id": 206,
+                        "place_type": 1,
+                        "place_name": "希腊"
+                    },
+                    {
+                        "place_id": 202,
+                        "place_type": 1,
+                        "place_name": "瑞典"
+                    },
+                    {
+                        "place_id": 207,
+                        "place_type": 1,
+                        "place_name": "匈牙利"
+                    },
+                    {
+                        "place_id": 205,
+                        "place_type": 1,
+                        "place_name": "丹麦"
+                    }
+                ]
+            },
+            {
+                "continent": "亚洲",
+                "place": [
+                    {
+                        "place_id": 0,
+                        "place_type": 1,
+                        "place_name": "不限"
+                    },
+                    {
+                        "place_id": 11,
+                        "place_type": 1,
+                        "place_name": "中国"
+                    },
+                    {
+                        "place_id": 215,
+                        "place_type": 1,
+                        "place_name": "泰国"
+                    },
+                    {
+                        "place_id": 14,
+                        "place_type": 1,
+                        "place_name": "日本"
+                    },
+                    {
+                        "place_id": 213,
+                        "place_type": 1,
+                        "place_name": "马来西亚"
+                    },
+                    {
+                        "place_id": 233,
+                        "place_type": 1,
+                        "place_name": "韩国"
+                    },
+                    {
+                        "place_id": 232,
+                        "place_type": 1,
+                        "place_name": "新加坡"
+                    },
+                    {
+                        "place_id": 216,
+                        "place_type": 1,
+                        "place_name": "柬埔寨"
+                    },
+                    {
+                        "place_id": 219,
+                        "place_type": 1,
+                        "place_name": "越南"
+                    },
+                    {
+                        "place_id": 570,
+                        "place_type": 1,
+                        "place_name": "印度尼西亚"
+                    },
+                    {
+                        "place_id": 446,
+                        "place_type": 1,
+                        "place_name": "菲律宾"
+                    },
+                    {
+                        "place_id": 220,
+                        "place_type": 1,
+                        "place_name": "尼泊尔"
+                    },
+                    {
+                        "place_id": 402,
+                        "place_type": 1,
+                        "place_name": "阿联酋"
+                    },
+                    {
+                        "place_id": 497,
+                        "place_type": 1,
+                        "place_name": "马尔代夫"
+                    },
+                    {
+                        "place_id": 537,
+                        "place_type": 1,
+                        "place_name": "斯里兰卡"
+                    },
+                    {
+                        "place_id": 231,
+                        "place_type": 1,
+                        "place_name": "印度"
+                    },
+                    {
+                        "place_id": 487,
+                        "place_type": 1,
+                        "place_name": "老挝"
+                    }
+                ]
+            },
+            {
+                "continent": "北美洲",
+                "place": [
+                    {
+                        "place_id": 0,
+                        "place_type": 1,
+                        "place_name": "不限"
+                    },
+                    {
+                        "place_id": 236,
+                        "place_type": 1,
+                        "place_name": "美国"
+                    },
+                    {
+                        "place_id": 238,
+                        "place_type": 1,
+                        "place_name": "加拿大"
+                    },
+                    {
+                        "place_id": 515,
+                        "place_type": 1,
+                        "place_name": "墨西哥"
+                    },
+                    {
+                        "place_id": 458,
+                        "place_type": 1,
+                        "place_name": "古巴"
+                    },
+                    {
+                        "place_id": 413,
+                        "place_type": 1,
+                        "place_name": "巴哈马"
+                    },
+                    {
+                        "place_id": 426,
+                        "place_type": 1,
+                        "place_name": "波多黎各"
+                    },
+                    {
+                        "place_id": 417,
+                        "place_type": 1,
+                        "place_name": "巴拿马"
+                    },
+                    {
+                        "place_id": 565,
+                        "place_type": 1,
+                        "place_name": "牙买加"
+                    },
+                    {
+                        "place_id": 454,
+                        "place_type": 1,
+                        "place_name": "哥斯达黎加"
+                    },
+                    {
+                        "place_id": 506,
+                        "place_type": 1,
+                        "place_name": "美属维尔京群岛"
+                    },
+                    {
+                        "place_id": 555,
+                        "place_type": 1,
+                        "place_name": "危地马拉"
+                    },
+                    {
+                        "place_id": 477,
+                        "place_type": 1,
+                        "place_name": "开曼群岛"
+                    },
+                    {
+                        "place_id": 430,
+                        "place_type": 1,
+                        "place_name": "伯利兹"
+                    },
+                    {
+                        "place_id": 440,
+                        "place_type": 1,
+                        "place_name": "多米尼加共和国"
+                    },
+                    {
+                        "place_id": 465,
+                        "place_type": 1,
+                        "place_name": "洪都拉斯"
+                    },
+                    {
+                        "place_id": 1382,
+                        "place_type": 1,
+                        "place_name": "荷属圣马丁"
+                    }
+                ]
+            },
+            {
+                "continent": "大洋洲",
+                "place": [
+                    {
+                        "place_id": 0,
+                        "place_type": 1,
+                        "place_name": "不限"
+                    },
+                    {
+                        "place_id": 240,
+                        "place_type": 1,
+                        "place_name": "澳大利亚"
+                    },
+                    {
+                        "place_id": 241,
+                        "place_type": 1,
+                        "place_name": "新西兰"
+                    },
+                    {
+                        "place_id": 422,
+                        "place_type": 1,
+                        "place_name": "北马里亚纳群岛"
+                    },
+                    {
+                        "place_id": 447,
+                        "place_type": 1,
+                        "place_name": "斐济"
+                    },
+                    {
+                        "place_id": 522,
+                        "place_type": 1,
+                        "place_name": "帕劳"
+                    },
+                    {
+                        "place_id": 1072,
+                        "place_type": 1,
+                        "place_name": "关岛"
+                    },
+                    {
+                        "place_id": 545,
+                        "place_type": 1,
+                        "place_name": "法国属波利尼西亚"
+                    },
+                    {
+                        "place_id": 806,
+                        "place_type": 1,
+                        "place_name": "艾普罗菲尔"
+                    },
+                    {
+                        "place_id": 554,
+                        "place_type": 1,
+                        "place_name": "瓦努阿图"
+                    },
+                    {
+                        "place_id": 526,
+                        "place_type": 1,
+                        "place_name": "萨摩亚"
+                    }
+                ]
+            },
+            {
+                "continent": "南美洲",
+                "place": [
+                    {
+                        "place_id": 0,
+                        "place_type": 1,
+                        "place_name": "不限"
+                    },
+                    {
+                        "place_id": 242,
+                        "place_type": 1,
+                        "place_name": "巴西"
+                    },
+                    {
+                        "place_id": 243,
+                        "place_type": 1,
+                        "place_name": "阿根廷"
+                    },
+                    {
+                        "place_id": 509,
+                        "place_type": 1,
+                        "place_name": "秘鲁"
+                    },
+                    {
+                        "place_id": 575,
+                        "place_type": 1,
+                        "place_name": "智利"
+                    },
+                    {
+                        "place_id": 429,
+                        "place_type": 1,
+                        "place_name": "玻利维亚"
+                    },
+                    {
+                        "place_id": 453,
+                        "place_type": 1,
+                        "place_name": "哥伦比亚"
+                    },
+                    {
+                        "place_id": 443,
+                        "place_type": 1,
+                        "place_name": "厄瓜多尔"
+                    },
+                    {
+                        "place_id": 557,
+                        "place_type": 1,
+                        "place_name": "委内瑞拉"
+                    },
+                    {
+                        "place_id": 561,
+                        "place_type": 1,
+                        "place_name": "乌拉圭"
+                    },
+                    {
+                        "place_id": 415,
+                        "place_type": 1,
+                        "place_name": "巴拉圭"
+                    }
+                ]
+            },
+            {
+                "continent": "非洲",
+                "place": [
+                    {
+                        "place_id": 0,
+                        "place_type": 1,
+                        "place_name": "不限"
+                    },
+                    {
+                        "place_id": 244,
+                        "place_type": 1,
+                        "place_name": "埃及"
+                    },
+                    {
+                        "place_id": 517,
+                        "place_type": 1,
+                        "place_name": "南非"
+                    },
+                    {
+                        "place_id": 483,
+                        "place_type": 1,
+                        "place_name": "肯尼亚"
+                    },
+                    {
+                        "place_id": 503,
+                        "place_type": 1,
+                        "place_name": "毛里求斯"
+                    },
+                    {
+                        "place_id": 513,
+                        "place_type": 1,
+                        "place_name": "摩洛哥"
+                    },
+                    {
+                        "place_id": 546,
+                        "place_type": 1,
+                        "place_name": "坦桑尼亚"
+                    },
+                    {
+                        "place_id": 405,
+                        "place_type": 1,
+                        "place_name": "埃塞俄比亚"
+                    },
+                    {
+                        "place_id": 531,
+                        "place_type": 1,
+                        "place_name": "塞舌尔"
+                    },
+                    {
+                        "place_id": 550,
+                        "place_type": 1,
+                        "place_name": "突尼斯"
+                    },
+                    {
+                        "place_id": 400,
+                        "place_type": 1,
+                        "place_name": "阿尔及利亚"
+                    },
+                    {
+                        "place_id": 573,
+                        "place_type": 1,
+                        "place_name": "赞比亚"
+                    },
+                    {
+                        "place_id": 559,
+                        "place_type": 1,
+                        "place_name": "乌干达"
+                    },
+                    {
+                        "place_id": 520,
+                        "place_type": 1,
+                        "place_name": "尼日利亚"
+                    },
+                    {
+                        "place_id": 474,
+                        "place_type": 1,
+                        "place_name": "津巴布韦"
+                    },
+                    {
+                        "place_id": 516,
+                        "place_type": 1,
+                        "place_name": "纳米比亚"
+                    },
+                    {
+                        "place_id": 471,
+                        "place_type": 1,
+                        "place_name": "加纳"
+                    }
+                ]
+            }
+        ]
+    },
+    "extra": {
+        "ra_switch": 1
+    }
+}
